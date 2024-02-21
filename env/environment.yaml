@@ -1,0 +1,8 @@
+subscription:
+tenant:
+resource_group:
+storage_account:
+container_name:
+
+tags:
+  environment: dev
